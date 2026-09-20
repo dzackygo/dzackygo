@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Futuristic Cyberpunk Dynamic Header -->
+  <!-- Dynamic Cyberpunk Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F2FE,35:4FACFE,70:7928CA,100:0D1117&height=220&section=header&text=DZACKY%20ILHAM&fontSize=62&fontAlignY=38&desc=%E2%8C%98%20CYBERNETIC%20ARCHITECT%20%7C%20ANDROID%20%26%20FULLSTACK%20ENGINEER&descAlignY=62&descSize=17&fontColor=ffffff" width="100%" />
 
   <!-- Animated Typing Telemetry HUD -->
@@ -9,19 +9,13 @@
 
   <br/><br/>
 
-  <!-- High-Tech Quick Badges -->
-  <a href="#-tech-arsenal--weapons-matrix">
-    <img src="https://img.shields.io/badge/System-ONLINE-00FF66?style=for-the-badge&logo=statuspage&logoColor=0D1117" alt="System Online" />
-  </a>
-  <a href="https://unhas.ac.id" target="_blank">
-    <img src="https://img.shields.io/badge/Station-UNHAS%20MAKASSAR-00F0FF?style=for-the-badge&logo=googlemaps&logoColor=0D1117" alt="UNHAS Station" />
-  </a>
-  <a href="#-classified-archives--featured-projects">
-    <img src="https://img.shields.io/badge/Specialty-Android%20%26%20Fullstack-7928CA?style=for-the-badge&logo=android&logoColor=white" alt="Specialty" />
-  </a>
-  <a href="#-neural-uplink--transmission-frequencies">
-    <img src="https://img.shields.io/badge/Clearance-LEVEL%205-FF007F?style=for-the-badge&logo=shield&logoColor=white" alt="Clearance Level 5" />
-  </a>
+  <!-- High-Tech Quick Badges & View Counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dzackygo&label=PROFILE+VIEWS&style=flat-square&color=00F0FF" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/System-ONLINE-00FF66?style=flat-square" alt="System Online" />
+    <img src="https://img.shields.io/badge/Location-Makassar%2C%20ID-00F0FF?style=flat-square" alt="Location Makassar" />
+    <img src="https://img.shields.io/badge/Affiliation-UNHAS-7928CA?style=flat-square" alt="UNHAS" />
+  </p>
 </div>
 
 <br/>
@@ -40,50 +34,55 @@
 
 ---
 
-### 🛰️ TECH ARSENAL & WEAPONS MATRIX
+### 👨‍💻 ABOUT ME
 
-<div align="center">
+- 🔭 I’m currently building **[VineGuard](https://github.com/dzackygo/VineGuard)** — a native Android application integrating Machine Learning & Computer Vision for automated plant pathology diagnostics.
+- 🏛️ I'm an active **Laboratory Assistant for Mobile Programming** at **Universitas Hasanuddin (UNHAS)**, mentoring students in native mobile engineering.
+- 🌱 I’m currently advancing my expertise in **Jetpack Compose, Kotlin Multiplatform, and Edge AI Deployment**.
+- 💬 Ask me about **Android (Kotlin/Java), Modern Fullstack (TypeScript/Node/PHP), and RESTful Architectures**.
+- ⚡ Fun fact: *Coding clean reactive architectures with coffee and futuristic cyberpunk vibes.*
+- 📫 Direct uplink: **[dzackyilham04@gmail.com](mailto:dzackyilham04@gmail.com)**
 
-#### 📱 Mobile Systems Matrix
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+---
 
-#### ⚡ Frontend Holographics & Core Web
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+### 🌐 CONNECT WITH ME
 
-#### 🛡️ Backend & Neural Cloud Infrastructure
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/RESTful_APIs-00599C?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+<p align="left">
+  <a href="https://linkedin.com/in/dzacky-ilham-a82149268" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="36" width="48" />
+  </a>
+  <a href="https://instagram.com/nizakiiiii" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="36" width="48" />
+  </a>
+  <a href="mailto:dzackyilham04@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="36" width="48" />
+  </a>
+  <a href="https://github.com/dzackygo" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="36" width="48" />
+  </a>
+</p>
 
-#### 💾 Data Cores & Persistent Storage
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/Room_DB-3DDC84?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room DB" />
+---
 
-#### 🧰 Cyber Warfare & Developer Environment
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+### 🛠️ LANGUAGES AND TOOLS (TECH ARSENAL)
 
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,ts,js,react,nextjs,tailwind,nodejs,express,php,laravel,mysql,postgres,firebase,supabase,sqlite,git,github,githubactions,postman,vscode,linux,figma&perline=12" alt="My Skills" />
+  </a>
+</p>
+
+<details>
+<summary><b>🔍 View Categorized Tech Breakdown</b></summary>
+<br/>
+
+- **📱 Mobile Systems Matrix**: `Kotlin` · `Android Jetpack` · `Compose` · `Java` · `Flutter`
+- **⚡ Frontend & Holographics**: `TypeScript` · `JavaScript` · `React.js` · `Next.js` · `Tailwind CSS` · `HTML5` · `CSS3`
+- **🛡️ Backend & Cloud**: `Node.js` · `Express.js` · `PHP` · `Laravel` · `RESTful APIs`
+- **💾 Data Cores & Storage**: `MySQL` · `PostgreSQL` · `Firebase` · `Supabase` · `Room DB / SQLite`
+- **🧰 Warfare Toolkit**: `Android Studio` · `Git` · `GitHub Actions` · `Postman` · `VS Code` · `Linux` · `Figma`
+
+</details>
 
 ---
 
@@ -94,7 +93,7 @@
     <td width="50%">
       <h3 align="center">🍇 <a href="https://github.com/dzackygo/VineGuard">VineGuard</a></h3>
       <p align="center"><b>Android AI Plant Pathology Diagnostic System</b></p>
-      <p>A cutting-edge native Android application incorporating machine learning / computer vision models for automated grape leaf disease detection, symptom classification, and curative guidance.</p>
+      <p>Cutting-edge native Android app incorporating Computer Vision & ML models for real-time grape leaf disease classification and treatment guidance.</p>
       <div align="center">
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Computer_Vision-00F0FF?style=flat-square" />
@@ -116,7 +115,7 @@
     <td width="50%">
       <h3 align="center">🎵 <a href="https://github.com/dzackygo/Musically">Musically</a></h3>
       <p align="center"><b>High-Performance Native Audio Experience</b></p>
-      <p>Modern Android music application built in Kotlin showcasing reactive UI states, foreground media playback services, custom audio controls, and sleek audio management.</p>
+      <p>Modern Android music application built in Kotlin showcasing reactive UI states, foreground media playback services, custom audio controls, and sleek UI.</p>
       <div align="center">
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Media3_ExoPlayer-FF007F?style=flat-square" />
@@ -159,27 +158,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzackygo/dzackygo/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/dzackygo/dzackygo/output/github-contribution-grid-snake-dark.svg">
   </picture>
-</div>
-
----
-
-### 📡 NEURAL UPLINK // TRANSMISSION FREQUENCIES
-
-<div align="center">
-  <p><i>Initiate transmission for technical inquiries, mobile architectures, or collaborative projects:</i></p>
-
-  <a href="mailto:dzackyilham04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/dzacky-ilham-a82149268" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/dzackygo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/nizakiiiii" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </div>
 
 <br/>
