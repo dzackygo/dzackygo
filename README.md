@@ -141,12 +141,12 @@
 ### 📊 REAL-TIME TELEMETRY & STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzackygo&show_icons=true&theme=tokyonight&border_color=00F0FF&border_radius=10&title_color=00F0FF&text_color=94A3B8&icon_color=00F0FF&bg_color=0D1117&locale=en" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzackygo&layout=compact&theme=tokyonight&border_color=7928CA&border_radius=10&title_color=BD34FE&text_color=94A3B8&bg_color=0D1117&locale=en" height="175" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dzackygo&theme=tokyonight" height="180" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dzackygo&theme=tokyonight" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzackygo&theme=tokyonight&border_radius=10&background=0D1117&border=00F0FF&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=94A3B8&dates=64748B" height="175" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=dzackygo&theme=tokyonight&border_radius=10&background=0D1117&border=00F0FF&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=94A3B8&dates=64748B" height="180" alt="Streak Stats" />
 </div>
 
 ---
